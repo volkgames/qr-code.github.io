@@ -56,5 +56,5 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Github - [Volk](https://github.com/volkgames)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/volkgames)
+- Frontend Mentor - [@volk](https://www.frontendmentor.io/profile/volkgames)
 - Facebook - [volk3dvisuals](https://www.facebook.com/volk3dvisuals)
